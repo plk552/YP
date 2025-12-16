@@ -39,6 +39,11 @@
 
 ## 📦 Installation & Setup
 
+1.  **Клонируйте репозиторий**
+    ```bash
+    git clone 
+    ```
+
 1.  **Install Dependencies**
     ```bash
     npm install
